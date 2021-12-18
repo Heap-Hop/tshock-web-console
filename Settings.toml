@@ -1,0 +1,9 @@
+port = 8488
+static_dir = "static"
+api_token = "token1234"
+game_servers = [
+    {port=7878,token="aaabbbcccqqqwwweee"},
+    {port=7879,token="aaabbbcccqqqwwweee"},
+    {port=7880,token="aaabbbcccqqqwwweee"},
+    {port=7881,token="aaabbbcccqqqwwweee"}
+]
